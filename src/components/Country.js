@@ -108,6 +108,9 @@ console.log(country1) */
             <span className="keys">Currency: </span> &nbsp;{" "}
             {`${currency} - ${currencySymbol}`}
           </p>
+          {/*  <p>
+            <span className="keys">Google Maps:</span> {country.maps.googleMaps}
+          </p> */}
 
           {/*   <p>
             <span className="keys">Confirmed Covid-19 Cases:</span> &nbsp;
@@ -117,6 +120,17 @@ console.log(country1) */
            <span className="keys">Covid-19 Deaths:</span> &nbsp;
              {lastCovidElement.Deaths} 
           </p>  */}
+        </div>
+
+        <div className="flag">
+          <h2>Coat of Arms</h2>
+          <img
+            src={country.coatOfArms.png}
+            alt=""
+            width="250px"
+            height="200px" 
+            style={{ objectFit: "contain" }}
+          />
         </div>
       </div>
     </>
