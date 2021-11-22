@@ -30,15 +30,9 @@ The contact me form is grid-based and data is captured via EmaoilJS directly fro
 
 The following are some image snippets. The project is responsive.
 
-### Snippet 1
-
 ![image info](./src/images/cf1.png)
 
-### Snippet 2
-
 ![image info](./src/images/cf3.png)
-
-### Snippet 3
 
 ![image info](./src/images/cf4.png)
 
