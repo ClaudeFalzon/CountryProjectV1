@@ -7,7 +7,7 @@ export default function About() {
         <div className="entrance-form">
           <h2>Country Info Application</h2>
           <div class="bottom-line"></div>
-          <p>Includes latest Covid Updates</p>
+          <p>Includes flags and coats of arms</p>
         </div>
       </div>
       <div>
