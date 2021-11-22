@@ -32,7 +32,7 @@ The following are some image snippets. The project is responsive.
 
 ![image info](./src/images/cf1.png)
 
-![image info](./src/images/cf3.png)
+![image info](./src/images/cf6.png)
 
 ![image info](./src/images/cf5.png)
 
