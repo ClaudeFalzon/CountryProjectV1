@@ -93,7 +93,7 @@ console.log(country1) */
             <span className="keys">Sub-Region:</span> &nbsp;{subregion}
           </p>
           <p>
-            <span className="keys">Area: </span> &nbsp;{area}
+            <span className="keys">Area: </span> &nbsp;{area} km<sup>2</sup>
           </p>
           <p>
             <span className="keys">{`${
