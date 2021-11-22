@@ -32,7 +32,6 @@ The following are some image snippets. The project is responsive.
 
 ![image info](./src/images/cf1.png)
 
-
 ![image info](./src/images/cf1.jpg)
 
 ![image info](./images/mob2.png)
