@@ -49,7 +49,7 @@ console.log(country1) */
   const currency = Object.values(country.currencies)[0].name;
   const currencySymbol = Object.values(country.currencies)[0].symbol;
 
-  console.log(props.covid);
+  /* console.log(props.covid); */
   /*   console.log(neighbours);
 
   console.log(props.country[0].capital[0]);
